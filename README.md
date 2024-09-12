@@ -1,1 +1,0 @@
-# alpaca-image-generator
